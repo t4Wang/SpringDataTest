@@ -1,0 +1,17 @@
+﻿.classpath
+.project
+.settings/
+build/
+META-INF/
+target/
+src/test/
+src/main/java/com/baidu
+*.jpg
+*.png
+*.img
+*.gif
+*.jar
+.idea/
+*.iml
+*.jsp
+
